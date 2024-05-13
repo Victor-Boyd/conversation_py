@@ -1,5 +1,5 @@
 # Dora conversation
-A basic talker-listener setup in dora to help people new to the robotics understand how everything works
+A basic talker-listener setup in dora to help people new to the robotics understand how dora operators and appache arrow works
 
 ## How to run
 1. from the root of the workspace please run `dora up` then `dora start dataflow.yml --name conversation`
